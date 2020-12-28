@@ -1,0 +1,14 @@
+.sidebar{
+
+    flex: 0.2; 
+    /*this wi manage 20 %of the side screeen*/
+}
+
+.sidebar > hr{
+
+    height: 1px;
+    border: 1px;
+    background-color: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
